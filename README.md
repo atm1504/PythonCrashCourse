@@ -43,4 +43,3 @@ Notebooks for python Crash Course
 ## Some Books that you can read
 * http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-Cookbook-3rd-Edition.pdf
 * Sumita Arora Python (Class 11 and Class 12) https://thedarshika.com/sumita-arora-python-class-11-pdf-book/ || https://padhaaii.wordpress.com/class-12-cs-sumita-arora-python-pdf/
-* 
