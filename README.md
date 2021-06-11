@@ -10,7 +10,7 @@ Notebooks for python Crash Course
 - Tuple : https://www.geeksforgeeks.org/tuples-in-python/
 - Dictionary : https://www.geeksforgeeks.org/python-dictionary/
 - Set : https://www.geeksforgeeks.org/sets-in-python/
-- string : https://www.geeks forgeeks.org/python-strings/ 
+- string : https://www.geeksforgeeks.org/python-strings/ 
 - for loop : https://www.w3schools.com/python/python_for_loops.asp
 - if-else : https://www.geeksforgeeks.org/python-if-else/
 
