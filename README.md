@@ -27,9 +27,18 @@ Notebooks for python Crash Course
 - Heapq : https://www.geeksforgeeks.org/heap-queue-or-heapq-in-python/
 - bisect module -> For binary search : https://docs.python.org/3/library/bisect.html
 
+## Things to be Covered in Third Notebook:
+
+- zip fucntion, used in list
+- deque from collection module
+- classes and objects
+- inheritance
+- polymorphism
+
 ## Notebook Links:
 * Session 1: https://colab.research.google.com/drive/1_Iuv4dUcXRXwoRp8qZsrC5_IbzP95X-V?usp=sharing
 * Session 2: https://colab.research.google.com/drive/1SGT4x_bjFpB2P-bbE5yDtJ1RElRLtuNY?usp=sharing
+* Session 3: Scheduled on 20th June, 2021
 
 ## Other Resources Link:
 * https://www.py4e.com/lessons
