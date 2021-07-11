@@ -32,6 +32,9 @@ Notebooks for python Crash Course
 - zip fucntion, used in list
 - deque from collection module
 - classes and objects
+
+## Thing to be covered in Fourth Notebook:
+
 - inheritance
 - polymorphism
 
